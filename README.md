@@ -1,4 +1,4 @@
-# AI-M03-data-challenge-0126
+# AI-MA03-data-challenge-0126
 
 See assignment details on Canvas.
 
